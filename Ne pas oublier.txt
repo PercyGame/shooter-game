@@ -1,0 +1,3 @@
+essayer de faire un systeme de mode de tire ( semi_auto / automatique )
+
+finir systeme déplacement du joueur
